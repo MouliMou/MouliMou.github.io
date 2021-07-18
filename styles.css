@@ -125,5 +125,6 @@ h2{
     padding-left: 880px;
 }
 .imgedit{
-    border-radius: 20%;
+    border-radius: 50%;
+    width: 30%;
 }
